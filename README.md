@@ -39,7 +39,8 @@ I'm a young 23 years old programmer who loves technology and I love to learn new
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-
+## Others
+![](https://komarev.com/ghpvc/?username=your-github-username&label=Visitors+Here)
 
 
 <!--
