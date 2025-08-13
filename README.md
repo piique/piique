@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Pedro Vilaça!
 
-I'm a young 23 years old programmer who loves technology and I love to learn new things. I currently work as a fullstack working with React Js on the frontend and .NET on the backend. My training began as a fullstack, then I turned to the frontend, along with React Js and now I'm looking to perfect the backend part again.
+At 25 years old, I work as a Full Stack Developer, collaborating with high-profile clients such as VLI, Hermes Pardini, Líder Aviação, Grupo Zelo, and Supermix. My role involves both frontend and backend development, using technologies like React, Angular, Java, and C# (.NET) to deliver robust and efficient solutions. I adapt to diverse project requirements, ensuring the delivery of high-quality products tailored to each client's needs. Over the course of my career, I have successfully completed every assigned project, maintaining a focus on building intuitive and functional interfaces while implementing solid and scalable backend solutions.
 
 ## Social
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/pedrovilacav/)
