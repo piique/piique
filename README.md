@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Pedro Vilaça!
 
-At 25 years old, I work as a Full Stack Developer, collaborating with high-profile clients such as VLI, Hermes Pardini, Líder Aviação, Grupo Zelo, and Supermix. My role involves both frontend and backend development, using technologies like React, Angular, Java, and C# (.NET) to deliver robust and efficient solutions. I adapt to diverse project requirements, ensuring the delivery of high-quality products tailored to each client's needs. Over the course of my career, I have successfully completed every assigned project, maintaining a focus on building intuitive and functional interfaces while implementing solid and scalable backend solutions.
+Full Stack Developer with a proven track record of delivering robust, scalable solutions for high-profile clients, including VLI, Hermes Pardini, Líder Aviação, Grupo Zelo, and Supermix. I specialize in bridging the gap between intuitive frontend interfaces (React, Angular) and powerful backend architectures (Java, C# .NET). Known for my adaptability and a 100% project completion rate, I am passionate about transforming complex business requirements into high-quality, efficient software.
 
 ## Social
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/pedrovilacav/)
