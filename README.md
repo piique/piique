@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Pedro Vilaça!
 
-Full Stack Developer with a proven track record of delivering robust, scalable solutions for high-profile clients, including VLI, Hermes Pardini, Líder Aviação, Grupo Zelo, and Supermix. I specialize in bridging the gap between intuitive frontend interfaces (React, Angular) and powerful backend architectures (Java, C# .NET). Known for my adaptability and a 100% project completion rate, I am passionate about transforming complex business requirements into high-quality, efficient software.
+Full Stack Developer with a proven track record of delivering robust, scalable solutions for high-profile clients including VLI, Hermes Pardini, Líder Aviação, Grupo Zelo, Supermix, Framework Digital, and Prime Results. I bridge intuitive frontend interfaces (React, Angular, Vue) with powerful backend architectures (Java, C# .NET, PHP, Laravel). These days I'm focused on AI-assisted development workflows (OpenCode, Claude Code, OpenSpec) and self-hosted infrastructure — running a Dockerized homelab with Frigate NVR, Home Assistant, and WireGuard on Ubuntu Server. I manage my cross-platform dev environment with chezmoi + KeePassXC + Syncthing.
 
 ## AI & Dev Tooling
 [![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white)](https://opencode.ai/)
