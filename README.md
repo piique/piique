@@ -10,6 +10,7 @@ Full Stack Developer with a proven track record of delivering robust, scalable s
 [![GLM 5.2](https://img.shields.io/badge/GLM_5.2-4D4D4D?style=for-the-badge&logo=zhipu&logoColor=white)](https://www.zhipu.ai/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
 [![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/features/copilot)
+[![Context7](https://img.shields.io/badge/Context7-3B82F6?style=for-the-badge&logo=context7&logoColor=white)](https://context7.com/)
 
 ## Technologies
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -42,6 +43,33 @@ Full Stack Developer with a proven track record of delivering robust, scalable s
 [![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://www.netlify.com/)
 [![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)](https://swagger.io/)
+[![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Playwright](https://img.shields.io/badge/playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev/)
+[![Bun](https://img.shields.io/badge/bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)](https://bun.sh/)
+[![pnpm](https://img.shields.io/badge/pnpm-%23CB3837.svg?style=for-the-badge&logo=pnpm&logoColor=white)](https://pnpm.io/)
+[![asdf](https://img.shields.io/badge/asdf-E40521?style=for-the-badge&logo=asdf&logoColor=white)](https://asdf-vm.com/)
+[![oh-my-zsh](https://img.shields.io/badge/oh--my--zsh-%231A1A1A.svg?style=for-the-badge&logo=ohmyzsh&logoColor=white)](https://ohmyz.sh/)
+[![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/)
+[![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+
+## Homelab & Self-Hosting
+[![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white)](https://caddyserver.com/)
+[![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pi-hole&logoColor=white)](https://pi-hole.net/)
+[![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)](https://www.wireguard.com/)
+[![Frigate](https://img.shields.io/badge/Frigate-000000?style=for-the-badge&logo=frigate&logoColor=white)](https://frigate.video/)
+[![Home Assistant](https://img.shields.io/badge/Home_Assistant-18BCF2?style=for-the-badge&logo=homeassistant&logoColor=white)](https://www.home-assistant.io/)
+[![Mosquitto](https://img.shields.io/badge/Mosquitto_MQTT-3D2D92?style=for-the-badge&logo=mosquitto&logoColor=white)](https://mosquitto.org/)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![qBittorrent](https://img.shields.io/badge/qBittorrent-2E72EB?style=for-the-badge&logo=qbittorrent&logoColor=white)](https://www.qbittorrent.org/)
+[![Watchtower](https://img.shields.io/badge/Watchtower-1A1A1A?style=for-the-badge&logo=watchtower&logoColor=white)](https://containrrr.dev/watchtower/)
+[![SearXNG](https://img.shields.io/badge/SearXNG-3050C0?style=for-the-badge&logo=searxng&logoColor=white)](https://searxng.org/)
+[![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white)](https://brave.com/)
+[![Syncthing](https://img.shields.io/badge/Syncthing-0891B2?style=for-the-badge&logo=syncthing&logoColor=white)](https://syncthing.net/)
+[![KeePassXC](https://img.shields.io/badge/KeePassXC-6CAC2D?style=for-the-badge&logo=keepassxc&logoColor=white)](https://keepassxc.org/)
+[![Bitwarden](https://img.shields.io/badge/Bitwarden-175DDC?style=for-the-badge&logo=bitwarden&logoColor=white)](https://bitwarden.com/)
+[![chezmoi](https://img.shields.io/badge/chezmoi-5A1E1E?style=for-the-badge&logo=chezmoi&logoColor=white)](https://chezmoi.io/)
 
 ## Social
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/pedrovilacav/)
